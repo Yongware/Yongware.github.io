@@ -3,6 +3,9 @@ layout: post
 title:  OSS 4조 개인별 기여방안 정리
 date:   2020-05-23 09:50:36 +0530
 ---
+* Team Project로 최종적으로 TheAlgorithms/C가 선정되었다.
+* 그에 따른 개인별 기여방안을 정리한 내용이다.
+
 # 나의 기여 방안
 
 # MISC Project 기여
