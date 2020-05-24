@@ -36,6 +36,7 @@ date:   2020-05-23 09:50:36 +0530
 1.Data Structure 기여
  * 알고리즘적 버그가 있는 부분 수정
  * 최신 프로그래밍 동향을 파악해 추가할 수 있는 부분을 살펴보고 구현
+ * b-tree 등 자주 쓰이는 tree data structure 우선 구현
 2. Issue에 올라온 버그나 요청 파악
 3. ReadMe에 기여한 내용 반영
 4. Project 정적페이지 관리
