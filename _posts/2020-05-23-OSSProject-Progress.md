@@ -31,15 +31,15 @@ date:   2020-05-23 13:05:36 +0530
  * 크게 2가지로 나누어 Data Structure project와 MISC project에 집중적으로 기여할 예정이다.
  * 교육의 목적이 크기 때문에 한국어 ReadMe와 Wiki, 소개페이지를 추가로 구현
 
-  1. Data Structure project
-  > Double linked list와 기타 자주 쓰이는 자료구조 구현</br>
-  > Data Structure 내 Sorting 구현</br>
-  > 최신 프로그래밍 동향을 분석하여 그와 관련된 자료구조 구현</br>
+  **1. Data Structure project**
+  * Double linked list와 기타 자주 쓰이는 자료구조 구현
+  * Data Structure 내 Sorting 구현
+  * 최신 프로그래밍 동향을 분석하여 그와 관련된 자료구조 구현
   
-  2. MISC project
-  > 행렬연산 라이브러리 구현</br>
-  > Bitwise Operation 라이브러리 구현</br>
-  > 그 밖의 다양한 알고리즘 추가적으로 구현</br>
+  **2. MISC project**
+  * 행렬연산 라이브러리 구현
+  * Bitwise Operation 라이브러리 구현
+  * 그 밖의 다양한 알고리즘 추가적으로 구현
  
 
  
