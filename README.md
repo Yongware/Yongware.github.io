@@ -5,6 +5,8 @@
 
 ## <div id = "HOME_PAGE">홈페이지</div>
 https://Yongware.github.io
+> TheAlgorithms/C 팀프로젝트에 대한 요약
+> **JAVA Planner 프로젝트 진행되는데로 포스팅 예정**
 
 ## <div id = "Members">개발자 소개</div>
 ### 최영우
@@ -19,4 +21,4 @@ https://Yongware.github.io
 > > 교육 목적의 Bitwise Operation 구현
 > > 다양한 C언어 알고리즘 라이브러리 구현 중
 > 
-> JAVA를 활용한 가중치 Planner 프로젝트 진행 중
+> JAVA를 활용한 Planner 프로젝트 진행 중
