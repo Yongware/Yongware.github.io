@@ -5,8 +5,8 @@
 
 ## <div id = "HOME_PAGE">홈페이지</div>
 https://Yongware.github.io
-> TheAlgorithms/C 팀프로젝트에 대한 요약<br>
-> **JAVA Planner 프로젝트 진행되는데로 포스팅 예정**<br>
+1. TheAlgorithms/C 팀프로젝트 포스팅<br>
+2. **JAVA Planner 프로젝트 진행되는데로 포스팅 예정**<br>
 
 ## <div id = "Members">개발자 소개</div>
 ### 최영우
