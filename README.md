@@ -21,4 +21,6 @@ https://Yongware.github.io
 > > 교육 목적의 Bitwise Operation 구현
 > > 다양한 C언어 알고리즘 라이브러리 구현 중
 > 
-> JAVA를 활용한 Planner 프로젝트 진행 중
+> P-Planner 진행 중
+> >
+> 
