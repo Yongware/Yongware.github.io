@@ -14,13 +14,10 @@ https://Yongware.github.io
 > GitHub ID: [Yongware](https://github.com/yongware)<br>
 > 성균관대학교 소프트웨어학과 재학중<br>
 
-## <div id = "about_doing">활동 소개</div>
-> 오픈소스 프로젝트 TheAlgorithms/C를 팀 프로젝트로 진행 중
-> > C 알고리즘 정리 및 교육 프로젝트
-> > 프로젝트 중 MISC 프로젝트를 맡아 진행
-> > 교육 목적의 Bitwise Operation 구현
-> > 다양한 C언어 알고리즘 라이브러리 구현 중
-> 
-> P-Planner 진행 중
+## <div id = "about_doing">활동 소개</div> 
+> 1. P-Planner 진행중
+> > Readability 부분에서 기존의 어플들과 차별성
+> > Web과 React에서 구현 
 > >
-> 
+> 2. SKKU DID 학생증 프로젝트 Front 담당 진행중
+> > 
